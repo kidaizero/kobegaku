@@ -1,0 +1,32 @@
+h1{
+    font-size:50px;
+    color:blue;
+    text-align:center;
+    background-color:#f0ffff;
+    padding:20px;
+}
+
+body{
+    background-color:#fafafa;
+    text-align:center;
+}
+
+.explanation{
+    font-size:30px;
+}
+
+.meal{
+    display:inline-block;
+    padding:80px;
+    font-size:20px;
+    color:#9966CC;
+}
+
+.photo{
+    height:180px;
+    weight:200px;
+}
+
+.contact{
+    text-align:right;
+}
